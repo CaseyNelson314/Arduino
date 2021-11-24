@@ -10,7 +10,7 @@
   </tr>
   
   <tr align="center">
-    <td rowspan="2">print</td>
+    <td rowspan="2"><a href="/Print.h">print</a></td>
     <td>h</td>
     <td rowspan="2">Serial.print(println)</td>
   </tr>
@@ -20,21 +20,15 @@
   </tr>
   
   <tr align="center">
-    <td>servo</td>
+    <td><a href="/Servo.h">Servo</a></td>
     <td>.h</td>
     <td>サーボにPWM送るやつ</td>
   </tr>
   
   <tr align="center">
-    <td>binary</td>
+    <td><a href="/binary.h">binary</a></td>
     <td>.h</td>
     <td>脳筋二進数定義ファイル</td>
-  </tr>
-  
-  <tr align="center">
-    <td>print</td>
-    <td>.cpp</td>
-    <td>Serial.print(println)</td>
   </tr>
 
 </table>
@@ -42,7 +36,7 @@
 
 <table align="center">
  <tr align="center">
-    <th colspan="3">Arduino.h</th>
+    <th colspan="3"><a href="/Arduino.h">Arduino.h</a></th>
  </tr>
   
   <tr align="center">
