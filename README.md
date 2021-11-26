@@ -10,6 +10,12 @@
   </tr>
   
   <tr align="center">
+    <td><a href="/Arduino.h">arduino</a></td>
+    <td>.h</td>
+    <td>標準ライブラリー</td>
+  </tr>
+  
+  <tr align="center">
     <td rowspan="2"><a href="/Print.h">print</a></td>
     <td>h</td>
     <td rowspan="2">Serial.print(println)</td>
